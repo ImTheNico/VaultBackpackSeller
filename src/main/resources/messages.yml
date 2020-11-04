@@ -1,0 +1,8 @@
+backpack-upgraded-message: "&aYour backpack was upgraded to level %level%"
+insufficient-money-message: "&cYou need $%needed% to buy this."
+buy-successful-message: "&aBuy successful."
+command-help:
+  - "&7====[&aVaultBackpackSeller&7]===="
+  - "&b/vaultbackpackseller upgrade"
+  - "&b/vaultbackpackseller buy"
+  - "&7=============================="

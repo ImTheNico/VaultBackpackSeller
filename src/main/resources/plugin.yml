@@ -1,0 +1,5 @@
+main: nahubar65.gmail.com.vbs.VaultBackpackSeller
+version: 1.0
+name: VaultBackpackSeller
+softdepend:
+  - [Vault]
